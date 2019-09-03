@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 //本地新开发功能
+//远程修改了代码
 @SpringBootApplication
 @EnableZuulProxy
 public class MyShopGatewayApplication {
